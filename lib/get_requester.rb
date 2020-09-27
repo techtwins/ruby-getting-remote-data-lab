@@ -2,7 +2,6 @@
 require 'net/http'
 require 'json'
 require 'open-uri'
-require 'awesome_print'
 class GetRequester
     
     def initialize(url)
